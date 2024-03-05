@@ -1,15 +1,6 @@
 
 > Open this page at [https://tballmsft.github.io/jacdacnitelite/](https://tballmsft.github.io/jacdacnitelite/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tballmsft/jacdacnitelite** and import
-
 ## Edit this project
 
 To edit this repository in MakeCode.
